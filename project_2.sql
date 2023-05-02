@@ -1,4 +1,4 @@
-USE [AM]
+/* USE [AM]
 GO
 
 SELECT top 1000 [id]
@@ -24,7 +24,7 @@ SELECT top 1000 [athlete_id]
       ,[medal]
   FROM [dbo].[athlete_events]
 
-GO
+GO */
 
 --1 which team has won the maximum gold medals over the years
 
